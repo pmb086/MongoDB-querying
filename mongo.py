@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Balaji, Aishwarya Somesula
+@author: Balaji
 """
 
 from pymongo import MongoClient
